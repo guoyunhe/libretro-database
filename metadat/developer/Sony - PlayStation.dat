@@ -627,7 +627,7 @@ game (
 	releasemonth "1"
 	releaseday "10"
 	users "6"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLUS-00784"
 		name "Animaniacs in Ten Pin Alley (USA).cue"
@@ -2012,7 +2012,7 @@ game (
 	releasemonth "3"
 	releaseday "20"
 	users "6"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLUS-01478"
 		name "Big Strike Bowling (USA).cue"
@@ -2743,7 +2743,7 @@ game (
 	releasemonth "9"
 	releaseday "30"
 	users "2"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLUS-00571"
 		name "Brunswick Circuit Pro Bowling (USA).cue"
@@ -46738,7 +46738,7 @@ game (
 	releasemonth "8"
 	releaseday "6"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-01523"
 		name "Family Bowling (Japan).cue"
@@ -46755,7 +46755,7 @@ game (
 	releasemonth "11"
 	releaseday "30"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-03043"
 		name "Family Bowling [Nichibutsu Select Vol.3] (Japan).cue"
@@ -63475,7 +63475,7 @@ game (
 	releasemonth "8"
 	releaseday "29"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-00092"
 		name "King of Bowling (Japan).cue"
@@ -63492,7 +63492,7 @@ game (
 	releasemonth "8"
 	releaseday "27"
 	users "8"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-01541"
 		name "King of Bowling 2 - Professional-hen (Japan).cue"
@@ -63509,7 +63509,7 @@ game (
 	releasemonth "4"
 	releaseday "20"
 	users "8"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-02688"
 		name "King of Bowling 2 - Professional-hen [Playstation the Best] (Japan).cue"
@@ -94465,7 +94465,7 @@ game (
 	releasemonth "8"
 	releaseday "30"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPM-86866"
 		name "Simple 1500 Series - Hello Kitty vol.01 - Hello Kitty Bowling (Japan).cue"
@@ -107242,7 +107242,7 @@ game (
 	releasemonth "1"
 	releaseday "29"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-01196"
 		name "The Star Bowling DX (Japan) (Disc 1 of 4).cue"
@@ -107259,7 +107259,7 @@ game (
 	releasemonth "1"
 	releaseday "29"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-01197"
 		name "The Star Bowling DX (Japan) (Disc 2 of 4).cue"
@@ -107276,7 +107276,7 @@ game (
 	releasemonth "1"
 	releaseday "29"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-01198"
 		name "The Star Bowling DX (Japan) (Disc 3 of 4).cue"
@@ -107293,7 +107293,7 @@ game (
 	releasemonth "1"
 	releaseday "29"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-01199"
 		name "The Star Bowling DX (Japan) (Disc 4 of 4).cue"
@@ -113989,7 +113989,7 @@ game (
 	releasemonth "1"
 	releaseday "30"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPM-87225"
 		name "Wai Wai Bowling [Major Wave Series] (Japan).cue"
@@ -114125,7 +114125,7 @@ game (
 	releasemonth "4"
 	releaseday "2"
 	users "1"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-01166"
 		name "Waku Waku Bowling (Japan).cue"
@@ -115976,7 +115976,7 @@ game (
 	releasemonth "2"
 	releaseday "27"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLPS-03398"
 		name "World Tournament Bowling [Nice Price Series Vol.7] (Japan).cue"
@@ -120855,7 +120855,7 @@ game (
 	releasemonth "1"
 	releaseday "10"
 	users "6"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLES-01717"
 		name "Animaniacs in Ten Pin Alley (Europe).cue"
@@ -123235,7 +123235,7 @@ game (
 	releasemonth "4"
 	releaseday "17"
 	users "6"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLES-04025"
 		name "Big Strike Bowling (Europe).cue"
@@ -124255,7 +124255,7 @@ game (
 	releasemonth "11"
 	releaseday "15"
 	users "2"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLES-01376"
 		name "Brunswick Circuit Pro Bowling (Europe).cue"
@@ -142255,7 +142255,7 @@ game (
 	releasemonth "8"
 	releaseday "25"
 	users "8"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLES-02916"
 		name "King of Bowling 2 (Europe).cue"
@@ -142272,7 +142272,7 @@ game (
 	releasemonth "8"
 	releaseday "9"
 	users "4"
-	genre "Bowling"
+	genre "Sports"
 	rom (
 		serial "SLES-04049"
 		name "King of Bowling 3 (Europe).cue"
