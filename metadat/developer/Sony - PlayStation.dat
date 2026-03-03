@@ -3083,7 +3083,7 @@ game (
 	releasemonth "12"
 	releaseday "4"
 	users "1"
-	genre "Hunting"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-01391"
 		name "Cabela's Big Game Hunter - Ultimate Challenge (USA).cue"
@@ -3100,7 +3100,7 @@ game (
 	releasemonth "10"
 	releaseday "30"
 	users "1"
-	genre "Hunting"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-01474"
 		name "Cabela's Ultimate Deer Hunt - Open Season (USA).cue"

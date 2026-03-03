@@ -3458,7 +3458,7 @@ game (
 	releasemonth "12"
 	releaseday "24"
 	users "2"
-	genre "Hunting"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-20626"
 		name "Deer Hunter (USA).cue"
