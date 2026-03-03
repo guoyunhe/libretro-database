@@ -33554,7 +33554,7 @@ game (
 	releasemonth "2"
 	releaseday "11"
 	users "2"
-	genre "Volleyball"
+	genre "Sports"
 	rom (
 		serial "SLPS-02375"
 		name "Break Volley (Japan).cue"
@@ -36359,7 +36359,7 @@ game (
 	releasemonth "2"
 	releaseday "18"
 	users "2"
-	genre "Volleyball"
+	genre "Sports"
 	rom (
 		serial "SLPS-01871"
 		name "Chousentou Kyuugi The Ultimate Ballgame Van Borg (Japan).cue"
@@ -95723,7 +95723,7 @@ game (
 	releasemonth "1"
 	releaseday "25"
 	users "2"
-	genre "Volleyball"
+	genre "Sports"
 	rom (
 		serial "SLPM-86713"
 		name "Simple 1500 Series Vol.054 - The VolleyBall - Break Volley Plus (Japan).cue"
@@ -114151,7 +114151,7 @@ game (
 	releasemonth "11"
 	releaseday "26"
 	users "2"
-	genre "Volleyball / Beach Volleyball"
+	genre "Sports"
 	rom (
 		serial "SLPS-01695"
 		name "Waku Waku Volley (Japan).cue"
@@ -114168,7 +114168,7 @@ game (
 	releasemonth "10"
 	releaseday "7"
 	users "2"
-	genre "Volleyball / Beach Volleyball"
+	genre "Sports"
 	rom (
 		serial "SLPS-02346"
 		name "Waku Waku Volley [Rerelease] (Japan).cue"
