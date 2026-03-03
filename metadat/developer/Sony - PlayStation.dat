@@ -3406,7 +3406,7 @@ game (
 	releasemonth "9"
 	releaseday "13"
 	users "2"
-	genre "Motocross"
+	genre "Sports"
 	rom (
 		serial "SLUS-00790"
 		name "Championship Motocross featuring Ricky Carmichael (USA).cue"
@@ -3423,7 +3423,7 @@ game (
 	releasemonth "2"
 	releaseday "1"
 	users "2"
-	genre "Motocross"
+	genre "Sports"
 	rom (
 		serial "SLUS-01230"
 		name "Championship Motocross 2001 featuring Ricky Carmichael (USA).cue"
@@ -42241,7 +42241,7 @@ game (
 	releasemonth "1"
 	releaseday "6"
 	users "2"
-	genre "Motocross"
+	genre "Sports"
 	rom (
 		serial "SLPS-02146"
 		name "Dirt Champ - Motocross No.1 (Japan).cue"
@@ -125340,7 +125340,7 @@ game (
 	releasemonth "7"
 	releaseday "31"
 	users "2"
-	genre "Motocross"
+	genre "Sports"
 	rom (
 		serial "SLES-02200"
 		name "Championship Motocross featuring Ricky Carmichael (Europe).cue"
@@ -125357,7 +125357,7 @@ game (
 	releasemonth "2"
 	releaseday "1"
 	users "2"
-	genre "Motocross"
+	genre "Sports"
 	rom (
 		serial "SLES-03252"
 		name "Championship Motocross 2001 featuring Ricky Carmichael (Europe).cue"
