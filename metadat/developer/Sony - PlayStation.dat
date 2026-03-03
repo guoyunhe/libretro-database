@@ -1604,7 +1604,7 @@ game (
 	releasemonth "9"
 	releaseday "29"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-00873"
 		name "Bass Landing (USA).cue"
@@ -1621,7 +1621,7 @@ game (
 	releasemonth "10"
 	releaseday "26"
 	users "4"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-00905"
 		name "Bass Rise (USA).cue"
@@ -1944,7 +1944,7 @@ game (
 	releasemonth "5"
 	releaseday "6"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-01442"
 		name "Big Bass Fishing (USA).cue"
@@ -1961,7 +1961,7 @@ game (
 	releasemonth "3"
 	releaseday "15"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-00228"
 		name "Big Bass World Championship (USA).cue"
@@ -2063,7 +2063,7 @@ game (
 	releasemonth "11"
 	releaseday "18"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-00648"
 		name "Black Bass with Blue Marlin (USA).cue"
@@ -3389,7 +3389,7 @@ game (
 	releasemonth "3"
 	releaseday "7"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-01084"
 		name "Championship Bass (USA).cue"
@@ -17553,7 +17553,7 @@ game (
 	releasemonth "10"
 	releaseday "1"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-00440"
 		name "Reel Fishing (USA).cue"
@@ -17570,7 +17570,7 @@ game (
 	releasemonth "6"
 	releaseday "21"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-00843"
 		name "Reel Fishing II (USA).cue"
@@ -30681,7 +30681,7 @@ game (
 	releasemonth "6"
 	releaseday "11"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01304"
 		name "Bass Fisherman (Japan).cue"
@@ -30698,7 +30698,7 @@ game (
 	releasemonth "1"
 	releaseday "14"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01765"
 		name "Bass Landing (Japan).cue"
@@ -30715,7 +30715,7 @@ game (
 	releasemonth "1"
 	releaseday "14"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01764"
 		name "Bass Landing - Special Fishing Set (Japan).cue"
@@ -30732,7 +30732,7 @@ game (
 	releasemonth "10"
 	releaseday "4"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-03204"
 		name "Bass Landing [ASCII Casual Collection] (Japan).cue"
@@ -30749,7 +30749,7 @@ game (
 	releasemonth "2"
 	releaseday "23"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02647"
 		name "Bass Landing 2 (Japan).cue"
@@ -30766,7 +30766,7 @@ game (
 	releasemonth "4"
 	releaseday "5"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-91223"
 		name "Bass Landing 2 [PlayStation the Best] (Japan).cue"
@@ -30783,7 +30783,7 @@ game (
 	releasemonth "2"
 	releaseday "23"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02646"
 		name "Bass Landing 2 [with TsuriCon2] (Japan).cue"
@@ -35050,7 +35050,7 @@ game (
 	releasemonth "11"
 	releaseday "2"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02674"
 		name "Championship Bass (Japan).cue"
@@ -48890,7 +48890,7 @@ game (
 	releasemonth "10"
 	releaseday "10"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00463"
 		name "Fish Eyes (Japan).cue"
@@ -48907,7 +48907,7 @@ game (
 	releasemonth "10"
 	releaseday "10"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-91040"
 		name "Fish Eyes [Playstation the Best] (Japan).cue"
@@ -48924,7 +48924,7 @@ game (
 	releasemonth "2"
 	releaseday "7"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-91458"
 		name "Fish Eyes [PSOne Book] (Japan).cue"
@@ -48941,7 +48941,7 @@ game (
 	releasemonth "1"
 	releaseday "27"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02383"
 		name "Fish Eyes II (Japan).cue"
@@ -48958,7 +48958,7 @@ game (
 	releasemonth "2"
 	releaseday "11"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-91526"
 		name "Fish Eyes II [PSOne Books] (Japan).cue"
@@ -48975,7 +48975,7 @@ game (
 	releasemonth "3"
 	releaseday "14"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-03417"
 		name "Fish Eyes II [Victor Interactive Software Best] (Japan).cue"
@@ -48992,7 +48992,7 @@ game (
 	releasemonth "9"
 	releaseday "22"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02288"
 		name "Fish On Bass (Japan).cue"
@@ -49009,7 +49009,7 @@ game (
 	releasemonth "3"
 	releaseday "11"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01943"
 		name "Fisher's Road (Japan).cue"
@@ -49026,7 +49026,7 @@ game (
 	releasemonth "8"
 	releaseday "24"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPM-86622"
 		name "Fishing Club - Boat no Tsuriken [Superlite 1500 Series] (Japan).cue"
@@ -49043,7 +49043,7 @@ game (
 	releasemonth "8"
 	releaseday "24"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPM-86623"
 		name "Fishing Club - Bouhatei no Tsuriken [Superlite 1500 Series] (Japan).cue"
@@ -49060,7 +49060,7 @@ game (
 	releasemonth "8"
 	releaseday "24"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPM-86624"
 		name "Fishing Club - Hama no Tsuriken [Superlite 1500 Series] (Japan).cue"
@@ -49077,7 +49077,7 @@ game (
 	releasemonth "3"
 	releaseday "25"
 	users "4"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01931"
 		name "Fishing Freaks Bass Rise (Japan).cue"
@@ -49094,7 +49094,7 @@ game (
 	releasemonth "3"
 	releaseday "25"
 	users "4"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01930"
 		name "Fishing Freaks Bass Rise [Limited Edition] (Japan).cue"
@@ -49111,7 +49111,7 @@ game (
 	releasemonth "2"
 	releaseday "3"
 	users "4"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02572"
 		name "Fishing Freaks Bass Rise Plus (Japan).cue"
@@ -49128,7 +49128,7 @@ game (
 	releasemonth "3"
 	releaseday "14"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00749"
 		name "Fishing Koshien II (Japan).cue"
@@ -55930,7 +55930,7 @@ game (
 	releasemonth "1"
 	releaseday "19"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00198"
 		name "Hiroki Matsukata Presents - World Fishing (Japan).cue"
@@ -55947,7 +55947,7 @@ game (
 	releasemonth "4"
 	releaseday "28"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02041"
 		name "Hiroki Matsukata Presents - World Fishing [BPS The Choice] (Japan).cue"
@@ -66085,7 +66085,7 @@ game (
 	releasemonth "8"
 	releaseday "2"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00408"
 		name "Lake Masters (Japan).cue"
@@ -66102,7 +66102,7 @@ game (
 	releasemonth "9"
 	releaseday "23"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01608"
 		name "Lake Masters [Nice Price 2800] (Japan).cue"
@@ -66119,7 +66119,7 @@ game (
 	releasemonth "7"
 	releaseday "9"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01342"
 		name "Lake Masters 2 - Bass fishing in Japan (Japan).cue"
@@ -66136,7 +66136,7 @@ game (
 	releasemonth "5"
 	releaseday "20"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02069"
 		name "Lake Masters 2 - Bass fishing in Japan [Reprint] (Japan).cue"
@@ -66153,7 +66153,7 @@ game (
 	releasemonth "9"
 	releaseday "14"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02177"
 		name "Lake Masters Pro (Japan).cue"
@@ -66170,7 +66170,7 @@ game (
 	releasemonth "12"
 	releaseday "13"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-91420"
 		name "Lake Masters Pro [PSOne Books] (Japan).cue"
@@ -66187,7 +66187,7 @@ game (
 	releasemonth "8"
 	releaseday "3"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02869"
 		name "Lake Masters Pro [Reprint] (Japan).cue"
@@ -66527,7 +66527,7 @@ game (
 	releasemonth "4"
 	releaseday "22"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01914"
 		name "Let's go Bassfishing (Japan).cue"
@@ -66544,7 +66544,7 @@ game (
 	releasemonth "1"
 	releaseday "21"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01827"
 		name "Let's go Flyfishing (Japan).cue"
@@ -72434,7 +72434,7 @@ game (
 	releasemonth "2"
 	releaseday "11"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01227"
 		name "Miracle Jim no - Bassing Beat (Japan).cue"
@@ -72451,7 +72451,7 @@ game (
 	releasemonth "8"
 	releaseday "10"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02859"
 		name "Miracle Jim no - Bassing Beat 2 (Japan).cue"
@@ -74381,7 +74381,7 @@ game (
 	releasemonth "6"
 	releaseday "11"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01392"
 		name "Murakoshi Seikai Bakuchou Nippon Rettou (Japan).cue"
@@ -74398,7 +74398,7 @@ game (
 	releasemonth "9"
 	releaseday "22"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02279"
 		name "Murakoshi Seikai Bakuchou Nippon Rettou Tsuricon Taiouban (Japan).cue"
@@ -74415,7 +74415,7 @@ game (
 	releasemonth "9"
 	releaseday "14"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02890"
 		name "Murakoshi Seikai Bakuchou Nippon Rettou 2 (Japan).cue"
@@ -74432,7 +74432,7 @@ game (
 	releasemonth "3"
 	releaseday "25"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01988"
 		name "Murakoshi Seikai no Bakuchou Seabass Fishing (Japan) (Disc 1 of 2).cue"
@@ -74449,7 +74449,7 @@ game (
 	releasemonth "3"
 	releaseday "25"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01989"
 		name "Murakoshi Seikai no Bakuchou Seabass Fishing (Japan) (Disc 2 of 2).cue"
@@ -78546,7 +78546,7 @@ game (
 	releasemonth "10"
 	releaseday "6"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01524"
 		name "Okappari-Oh (Japan).cue"
@@ -79787,7 +79787,7 @@ game (
 	releasemonth "2"
 	releaseday "17"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02590"
 		name "Oyaji No Jiken - Nechan Tsuri Iku De (Japan).cue"
@@ -79804,7 +79804,7 @@ game (
 	releasemonth "8"
 	releaseday "9"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-03260"
 		name "Oyaji No Jiken - Nechan Tsuri Iku De [Renka Ban] (Japan).cue"
@@ -82083,7 +82083,7 @@ game (
 	releasemonth "3"
 	releaseday "4"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02409"
 		name "Perfect Fishing Bass Fishing (Japan).cue"
@@ -82100,7 +82100,7 @@ game (
 	releasemonth "3"
 	releaseday "4"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02410"
 		name "Perfect Fishing Rock Fishing (Japan).cue"
@@ -91350,7 +91350,7 @@ game (
 	releasemonth "6"
 	releaseday "21"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00356"
 		name "Seabass Fishing (Japan).cue"
@@ -91367,7 +91367,7 @@ game (
 	releasemonth "9"
 	releaseday "25"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00992"
 		name "Seabass Fishing 2 (Japan).cue"
@@ -92568,7 +92568,7 @@ game (
 	releasemonth "6"
 	releaseday "15"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02810"
 		name "Shiki Oriori no Bass Tsuri (Japan).cue"
@@ -95298,7 +95298,7 @@ game (
 	releasemonth "7"
 	releaseday "13"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02755"
 		name "Simple 1500 Series Vol.029 - The Tsuri (Japan).cue"
@@ -96726,7 +96726,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-03445"
 		name "Simple Characters 2000 Series Vol.09 - Tsuri Kichi Sanpei - The Tsuri (Japan).cue"
@@ -101393,7 +101393,7 @@ game (
 	releasemonth "8"
 	releaseday "26"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02219"
 		name "Super Bass Fishing (Japan).cue"
@@ -101410,7 +101410,7 @@ game (
 	releasemonth "7"
 	releaseday "27"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02867"
 		name "Super Bass Fishing [Popular Edition] (Japan).cue"
@@ -101427,7 +101427,7 @@ game (
 	releasemonth "8"
 	releaseday "7"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SCPS-45084"
 		name "Super Black Bass X (Japan).cue"
@@ -101444,7 +101444,7 @@ game (
 	releasemonth "8"
 	releaseday "7"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00839"
 		name "Super Black Bass X (Japan).cue"
@@ -101461,7 +101461,7 @@ game (
 	releasemonth "5"
 	releaseday "20"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02053"
 		name "Super Black Bass X [Good Price] (Japan).cue"
@@ -101478,7 +101478,7 @@ game (
 	releasemonth "2"
 	releaseday "3"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02392"
 		name "Super Black Bass X2 (Japan).cue"
@@ -101495,7 +101495,7 @@ game (
 	releasemonth "5"
 	releaseday "10"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPM-86717"
 		name "Super Black Bass X2 & The Blue Marlin (Japan) (Disc 1 of 2).cue"
@@ -101512,7 +101512,7 @@ game (
 	releasemonth "5"
 	releaseday "10"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPM-86718"
 		name "Super Black Bass X2 & The Blue Marlin (Japan) (Disc 2 of 2).cue"
@@ -102796,7 +102796,7 @@ game (
 	releasemonth "12"
 	releaseday "20"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPM-86981"
 		name "Superlite 3 in 1 - Series Tsuri Shuu (Japan).cue"
@@ -105372,7 +105372,7 @@ game (
 	releasemonth "5"
 	releaseday "2"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02752"
 		name "The Blue Marlin (Japan).cue"
@@ -111351,7 +111351,7 @@ game (
 	releasemonth "9"
 	releaseday "13"
 	users "2"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00440"
 		name "Tsuri Baka Nisshi (Japan).cue"
@@ -111368,7 +111368,7 @@ game (
 	releasemonth "1"
 	releaseday "28"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01752"
 		name "Tsuridou - Keiryuu Mizuumihen (Japan).cue"
@@ -111385,7 +111385,7 @@ game (
 	releasemonth "6"
 	releaseday "29"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02676"
 		name "Tsuridou - Keiryuu Mizuumihen [Best Edition] (Japan).cue"
@@ -111402,7 +111402,7 @@ game (
 	releasemonth "12"
 	releaseday "11"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01139"
 		name "Tsuridou - Umitsuri-hen (Japan).cue"
@@ -111419,7 +111419,7 @@ game (
 	releasemonth "3"
 	releaseday "25"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-91125"
 		name "Tsuridou - Umitsuri-hen [PlayStation the Best] (Japan).cue"
@@ -112031,7 +112031,7 @@ game (
 	releasemonth "8"
 	releaseday "6"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01521"
 		name "Uki Uki Tsuri Tengoku - Kawa Monogatari (Japan).cue"
@@ -112048,7 +112048,7 @@ game (
 	releasemonth "9"
 	releaseday "11"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-00983"
 		name "Uki Uki Tsuri Tengoku - Ningyo Densetsu No Nazo (Japan).cue"
@@ -112065,7 +112065,7 @@ game (
 	releasemonth "9"
 	releaseday "10"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01571"
 		name "Uki Uki Tsuri Tengoku - Ningyo Densetsu No Nazo [Rerelease] (Japan).cue"
@@ -112082,7 +112082,7 @@ game (
 	releasemonth "2"
 	releaseday "17"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-02579"
 		name "Uki Uki Tsuri Tengoku Nagami Densetsu Oe (Japan).cue"
@@ -112320,7 +112320,7 @@ game (
 	releasemonth "10"
 	releaseday "29"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPS-01623"
 		name "Umi No Oh Yah! (Japan).cue"
@@ -114862,7 +114862,7 @@ game (
 	releasemonth "7"
 	releaseday "27"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLPM-86548"
 		name "Winning Lure [Fishing rod series] (Japan).cue"
@@ -123218,7 +123218,7 @@ game (
 	releasemonth "5"
 	releaseday "26"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLES-03847"
 		name "Big Bass Fishing (Europe).cue"
@@ -125306,7 +125306,7 @@ game (
 	releasemonth "3"
 	releaseday "31"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLES-02775"
 		name "Championship Bass (Europe).cue"
@@ -152931,7 +152931,7 @@ game (
 	releasemonth "3"
 	releaseday "10"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLES-01727"
 		name "Reel Fishing (Europe).cue"
@@ -152948,7 +152948,7 @@ game (
 	releasemonth "10"
 	releaseday "6"
 	users "1"
-	genre "Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLES-02780"
 		name "Reel Fishing II (Europe).cue"
