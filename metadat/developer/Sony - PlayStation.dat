@@ -163556,7 +163556,7 @@ game (
 	releasemonth "3"
 	releaseday "14"
 	users "3"
-	genre "Pool"
+	genre "Sports"
 	rom (
 		serial "SLES-04062"
 		name "Trickshot (Europe).cue"
