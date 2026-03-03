@@ -95434,7 +95434,7 @@ game (
 	releasemonth "9"
 	releaseday "14"
 	users "2"
-	genre "Illustration Puzzle / Slide Puzzle"
+	genre "Puzzle"
 	rom (
 		serial "SLPS-02958"
 		name "Simple 1500 Series Vol.037 - The Illustration Puzzle & Slide Puzzle (Japan).cue"
