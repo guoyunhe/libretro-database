@@ -26855,7 +26855,7 @@ game (
 	releasemonth "2"
 	releaseday "11"
 	users "1"
-	genre "Visual novel"
+	genre "Visual Novel"
 	rom (
 		serial "SLPS-01096"
 		name "Aishiau Kotoshika Dekinai - Nothing but Loving (Japan).cue"
@@ -26872,7 +26872,7 @@ game (
 	releasemonth "6"
 	releaseday "29"
 	users "1"
-	genre "Visual novel"
+	genre "Visual Novel"
 	rom (
 		serial "SLPS-02824"
 		name "Aishiau Kotoshika Dekinai - Nothing but Loving [Playstation the Best] (Japan).cue"

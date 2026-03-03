@@ -78189,7 +78189,7 @@ game (
 	releasemonth "4"
 	releaseday "26"
 	users "1"
-	genre "Aventura"
+	genre "Visual Novel"
 	rom (
 		serial "SLPM-66743"
 		name "Shinkyouku Soukai Polyphonica (Japan).cue"
@@ -78206,7 +78206,7 @@ game (
 	releasemonth "4"
 	releaseday "10"
 	users "1"
-	genre "Aventura"
+	genre "Visual Novel"
 	rom (
 		serial "SLPM-66977"
 		name "Shinkyouku Soukai Polyphonica Episodes 0~4 Full Pack (Japan).cue"
