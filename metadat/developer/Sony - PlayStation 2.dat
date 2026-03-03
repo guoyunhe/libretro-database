@@ -107238,7 +107238,7 @@ game (
 	releasemonth "10"
 	releaseday "6"
 	users "1"
-	genre "Skiing"
+	genre "Sports"
 	rom (
 		serial "SLES-53963"
 		name "Downhill Slalom (Europe).cue"
