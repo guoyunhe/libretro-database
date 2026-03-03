@@ -73905,7 +73905,7 @@ game (
 	releasemonth "9"
 	releaseday "22"
 	users "2"
-	genre "Board / Reversi"
+	genre "Board"
 	rom (
 		serial "SLPS-02278"
 		name "Morita Kazuro no Reversi (Japan).cue"
@@ -95502,7 +95502,7 @@ game (
 	releasemonth "10"
 	releaseday "26"
 	users "2"
-	genre "Reversi"
+	genre "Board"
 	rom (
 		serial "SLPS-03010"
 		name "Simple 1500 Series vol.041 - The Reversi 2 (Japan).cue"
@@ -101818,7 +101818,7 @@ game (
 	releasemonth "1"
 	releaseday "24"
 	users "2"
-	genre "Reversi"
+	genre "Board"
 	rom (
 		serial "SLPS-03385"
 		name "Super Price Series - Reversi (Japan).cue"
@@ -102507,7 +102507,7 @@ game (
 	releasemonth "8"
 	releaseday "26"
 	users "2"
-	genre "Board / Reversi"
+	genre "Board"
 	rom (
 		serial "SLPM-86282"
 		name "Superlite 1500 Series - Reversi II (Japan).cue"
