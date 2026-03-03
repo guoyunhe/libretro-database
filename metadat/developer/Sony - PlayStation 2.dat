@@ -79797,7 +79797,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPM-62179"
 		name "Simple 2000 Honkaku Shikou Vol.002 - The Igo (Japan).cue"

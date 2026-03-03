@@ -46824,7 +46824,7 @@ game (
 	releasemonth "11"
 	releaseday "21"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-03488"
 		name "Family Igo 2 (Japan).cue"
@@ -52257,7 +52257,7 @@ game (
 	releasemonth "12"
 	releaseday "27"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-00528"
 		name "Go II Professional Taikyoku Igo (Japan).cue"
@@ -56764,7 +56764,7 @@ game (
 	releasemonth "5"
 	releaseday "21"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-00986"
 		name "Honkaku Igo (Japan).cue"
@@ -72213,7 +72213,7 @@ game (
 	releasemonth "12"
 	releaseday "11"
 	users "1"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-03554"
 		name "Minna Atsumore Igo Kyoushitsu (Japan).cue"
@@ -72332,7 +72332,7 @@ game (
 	releasemonth "10"
 	releaseday "25"
 	users "1"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPM-86921"
 		name "Minna no Igo [Superlite Gold Series] (Japan).cue"
@@ -76506,7 +76506,7 @@ game (
 	releasemonth "3"
 	releaseday "28"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-03410"
 		name "Nice Price Series Vol. 10 - Igo wo Utou (Japan).cue"
@@ -89607,7 +89607,7 @@ game (
 	releasemonth "10"
 	releaseday "1"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-01321"
 		name "Saikyou no igo - The strongest game of go (Japan).cue"
@@ -89624,7 +89624,7 @@ game (
 	releasemonth "9"
 	releaseday "15"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPM-86731"
 		name "Saikyou no igo - The strongest game of go [Reprint] (Japan).cue"
@@ -95519,7 +95519,7 @@ game (
 	releasemonth "10"
 	releaseday "26"
 	users "2"
-	genre "Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-03005"
 		name "Simple 1500 Series vol.042 - The Igo 2 (Japan).cue"
@@ -103383,7 +103383,7 @@ game (
 	releasemonth "12"
 	releaseday "18"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-01131"
 		name "Taikyoku Igo - Heisei Kiin (Japan).cue"
@@ -112269,7 +112269,7 @@ game (
 	releasemonth "12"
 	releaseday "17"
 	users "2"
-	genre "Board / Igo"
+	genre "Board"
 	rom (
 		serial "SLPS-01767"
 		name "Umezawa Yukari no Taikyoku Igo - Heisei Kiin II (Japan).cue"
