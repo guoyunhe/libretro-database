@@ -96488,7 +96488,7 @@ game (
 	releasemonth "8"
 	releaseday "29"
 	users "2"
-	genre "Fighting / Kendo"
+	genre "Fighting"
 	rom (
 		serial "SLPM-87140"
 		name "Simple 1500 Series Vol.099 - The Kendo - Ken no Hanamichi (Japan).cue"
@@ -111317,7 +111317,7 @@ game (
 	releasemonth "11"
 	releaseday "19"
 	users "1"
-	genre "Puzzle / Maze"
+	genre "Puzzle"
 	rom (
 		serial "SLPS-01694"
 		name "Tsun Tsun Kumi 2 Moji Moji Bakkun (Japan).cue"
