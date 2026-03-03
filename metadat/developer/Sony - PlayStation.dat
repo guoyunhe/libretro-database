@@ -95655,7 +95655,7 @@ game (
 	releasemonth "12"
 	releaseday "7"
 	users "2"
-	genre "Billiards"
+	genre "Sports"
 	rom (
 		serial "SLPM-86697"
 		name "Simple 1500 Series vol.050 - The Billiards 2 (Japan).cue"
@@ -95740,7 +95740,7 @@ game (
 	releasemonth "1"
 	releaseday "25"
 	users "2"
-	genre "Darts"
+	genre "Sports"
 	rom (
 		serial "SLPM-86714"
 		name "Simple 1500 Series vol.055 - The Darts (Japan).cue"
@@ -95791,7 +95791,7 @@ game (
 	releasemonth "4"
 	releaseday "26"
 	users "2"
-	genre "Sumo"
+	genre "Sports"
 	rom (
 		serial "SLPM-86760"
 		name "Simple 1500 Series vol.058 - The Sumo (Japan).cue"
