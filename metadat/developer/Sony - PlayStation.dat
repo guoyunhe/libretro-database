@@ -53141,7 +53141,7 @@ game (
 	releasemonth "5"
 	releaseday "21"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLPS-01268"
 		name "Great Rugby Jikkyou '98 World Cup e no Michi (Japan).cue"
@@ -53158,7 +53158,7 @@ game (
 	releasemonth "6"
 	releaseday "10"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLPS-02057"
 		name "Great Rugby Jikkyou '98 World Cup e no Michi [Nice Price] (Japan).cue"
@@ -53175,7 +53175,7 @@ game (
 	releasemonth "12"
 	releaseday "13"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLPS-91417"
 		name "Great Rugby Jikkyou '98 World Cup e no Michi [PSOne Books] (Japan).cue"
@@ -141830,7 +141830,7 @@ game (
 	releasemonth "3"
 	releaseday "31"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLES-00377"
 		name "Jonah Lomu Rugby (Europe).cue"
@@ -141847,7 +141847,7 @@ game (
 	releasemonth "3"
 	releaseday "31"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLES-00611"
 		name "Jonah Lomu Rugby (Europe).cue"

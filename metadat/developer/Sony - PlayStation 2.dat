@@ -5071,7 +5071,7 @@ game (
 	releasemonth "7"
 	releaseday "17"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLUS-20262"
 		name "EA Sports - Rugby (USA).cue"
@@ -108577,7 +108577,7 @@ game (
 	releasemonth "6"
 	releaseday "15"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLES-50220"
 		name "EA Sports - Rugby (Europe).cue"
@@ -108594,7 +108594,7 @@ game (
 	releasemonth "6"
 	releaseday "15"
 	users "2"
-	genre "Rugby"
+	genre "Sports"
 	rom (
 		serial "SLES-50275"
 		name "EA Sports - Rugby (Europe).cue"
