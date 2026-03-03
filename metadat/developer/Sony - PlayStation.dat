@@ -18692,7 +18692,7 @@ game (
 	releasemonth "11"
 	releaseday "28"
 	users "1"
-	genre "Sport / Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLUS-01397"
 		name "Saltwater Sportfishing (USA).cue"
@@ -154920,7 +154920,7 @@ game (
 	releasemonth "11"
 	releaseday "28"
 	users "1"
-	genre "Sport / Fishing"
+	genre "Hunting and Fishing"
 	rom (
 		serial "SLES-03753"
 		name "Saltwater Sportfishing (Europe).cue"
