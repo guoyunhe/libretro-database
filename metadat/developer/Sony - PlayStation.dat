@@ -30069,7 +30069,7 @@ game (
 	releasemonth "1"
 	releaseday "14"
 	users "2"
-	genre "Board / Backgammon"
+	genre "Board / Gambling"
 	rom (
 		serial "SLPS-01782"
 		name "Backgammon (Japan).cue"
@@ -30086,7 +30086,7 @@ game (
 	releasemonth "6"
 	releaseday "14"
 	users "2"
-	genre "Board / Backgammon"
+	genre "Board / Gambling"
 	rom (
 		serial "SLPS-03228"
 		name "Backgammon [Rerelease] (Japan).cue"
@@ -75384,7 +75384,7 @@ game (
 	releasemonth "5"
 	releaseday "27"
 	users "1"
-	genre "Puzzle / Crossword"
+	genre "Puzzle"
 	rom (
 		serial "SLPS-02067"
 		name "Nankuro [SuperLite 1500 Series] (Japan).cue"
@@ -75401,7 +75401,7 @@ game (
 	releasemonth "1"
 	releaseday "27"
 	users "1"
-	genre "Puzzle / Crossword"
+	genre "Puzzle"
 	rom (
 		serial "SLPM-86427"
 		name "Nankuro 2 [SuperLite 1500 Series] (Japan).cue"
@@ -75435,7 +75435,7 @@ game (
 	releasemonth "5"
 	releaseday "24"
 	users "1"
-	genre "Puzzle / Crossword"
+	genre "Puzzle"
 	rom (
 		serial "SLPM-86795"
 		name "Nankuro 4 [SuperLite 1500 Series] (Japan).cue"
@@ -151724,7 +151724,7 @@ game (
 	releasemonth "3"
 	releaseday "28"
 	users "2"
-	genre "Board / Backgammon"
+	genre "Board / Gambling"
 	rom (
 		serial "SLES-04052"
 		name "Pro Backgammon (Europe).cue"
