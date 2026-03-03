@@ -2522,7 +2522,7 @@ game (
 	releasemonth "6"
 	releaseday "3"
 	users "1"
-	genre "Interactive movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLUS-00083"
 		name "Brain Dead 13 (USA) (Disc 1 of 2).cue"
@@ -2539,7 +2539,7 @@ game (
 	releasemonth "6"
 	releaseday "3"
 	users "1"
-	genre "Interactive movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLUS-00171"
 		name "Brain Dead 13 (USA) (Disc 2 of 2).cue"
@@ -33350,7 +33350,7 @@ game (
 	releasemonth "10"
 	releaseday "18"
 	users "1"
-	genre "Interactive movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPS-00514"
 		name "Brain Dead 13 (Japan) (Disc 1 of 2).cue"
@@ -33367,7 +33367,7 @@ game (
 	releasemonth "10"
 	releaseday "18"
 	users "1"
-	genre "Interactive movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPS-00515"
 		name "Brain Dead 13 (Japan) (Disc 2 of 2).cue"
