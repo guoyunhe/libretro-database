@@ -40252,7 +40252,7 @@ game (
 	releasemonth "3"
 	releaseday "18"
 	users "1"
-	genre "Laser Disc / Interactive Movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPM-86210"
 		name "Dancing Blade 2 - Katteni Momotenshi II - Tears of Eden (Japan) (Disc 1 of 3).cue"
@@ -40269,7 +40269,7 @@ game (
 	releasemonth "3"
 	releaseday "18"
 	users "1"
-	genre "Laser Disc / Interactive Movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPM-86211"
 		name "Dancing Blade 2 - Katteni Momotenshi II - Tears of Eden (Japan) (Disc 2 of 3).cue"
@@ -40286,7 +40286,7 @@ game (
 	releasemonth "3"
 	releaseday "18"
 	users "1"
-	genre "Laser Disc / Interactive Movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPM-86212"
 		name "Dancing Blade 2 - Katteni Momotenshi II - Tears of Eden (Japan) (Disc 3 of 3).cue"
@@ -74585,7 +74585,7 @@ game (
 	releasemonth "3"
 	releaseday "15"
 	users "1"
-	genre "Laser Disc / Interactive Movie / Mini Games"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPM-86790"
 		name "Muteki-Oh Tri-Zenon (Japan).cue"
@@ -107820,7 +107820,7 @@ game (
 	releasemonth "10"
 	releaseday "20"
 	users "1"
-	genre "Laser Disc / Interactive Movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPS-00094"
 		name "Thunder Storm LX-3 & Roadblaster (Japan) (Disc 1 of 2).cue"
@@ -107837,7 +107837,7 @@ game (
 	releasemonth "10"
 	releaseday "20"
 	users "1"
-	genre "Laser Disc / Interactive Movie"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPS-00095"
 		name "Thunder Storm LX-3 & Roadblaster (Japan) (Disc 2 of 2).cue"
@@ -108109,7 +108109,7 @@ game (
 	releasemonth "7"
 	releaseday "5"
 	users "2"
-	genre "Interactive Movie / Laser Disc"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPS-00383"
 		name "Time Gal & Ninja Hayate (Japan) (Disc 1 of 2).cue"
@@ -108126,7 +108126,7 @@ game (
 	releasemonth "7"
 	releaseday "5"
 	users "2"
-	genre "Interactive Movie / Laser Disc"
+	genre "Interactive Movie"
 	rom (
 		serial "SLPS-00384"
 		name "Time Gal & Ninja Hayate (Japan) (Disc 2 of 2).cue"
