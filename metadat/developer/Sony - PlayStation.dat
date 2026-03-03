@@ -20474,7 +20474,7 @@ game (
 	releasemonth "1"
 	releaseday "4"
 	users "2"
-	genre "Squash"
+	genre "Sports"
 	rom (
 		serial "SLUS-01450"
 		name "Street Racquetball (USA).cue"
@@ -96454,7 +96454,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "2"
-	genre "Squash"
+	genre "Sports"
 	rom (
 		serial "SLPM-87088"
 		name "Simple 1500 Series vol.097 - The Squash (Japan).cue"
@@ -124034,7 +124034,7 @@ game (
 	releasemonth "12"
 	releaseday "8"
 	users "2"
-	genre "Cricket"
+	genre "Sports"
 	rom (
 		serial "SLES-00759"
 		name "Brian Lara Cricket (Europe).cue"
@@ -155481,7 +155481,7 @@ game (
 	releasemonth "11"
 	releaseday "22"
 	users "2"
-	genre "Cricket"
+	genre "Sports"
 	rom (
 		serial "SLES-01576"
 		name "Shane Warne Cricket '99 (Europe).cue"
