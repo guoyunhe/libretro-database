@@ -1358,7 +1358,7 @@ game (
 	releasemonth "10"
 	releaseday "1"
 	users "4"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLUS-00659"
 		name "Backstreet Billiards (USA).cue"
@@ -2029,7 +2029,7 @@ game (
 	releasemonth "7"
 	releaseday "9"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLUS-01289"
 		name "Billiards (USA).cue"
@@ -5463,7 +5463,7 @@ game (
 	releasemonth "6"
 	releaseday "15"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCUS-94646"
 		name "Disney's Lilo & Stitch (USA).cue"
@@ -9730,7 +9730,7 @@ game (
 	releasemonth "3"
 	releaseday "9"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLUS-01313"
 		name "Jimmy White's 2 Cueball (USA).cue"
@@ -16448,7 +16448,7 @@ game (
 	releasemonth "11"
 	releaseday "9"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLUS-00758"
 		name "Pool Hustler (USA).cue"
@@ -23755,7 +23755,7 @@ game (
 	releasemonth "2"
 	releaseday "28"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLUS-00034"
 		name "Virtual Pool (USA).cue"
@@ -23772,7 +23772,7 @@ game (
 	releasemonth "8"
 	releaseday "11"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLUS-01374"
 		name "Virtual Pool 3 (USA).cue"
@@ -34744,7 +34744,7 @@ game (
 	releasemonth "4"
 	releaseday "25"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-00837"
 		name "Carom shot (Japan).cue"
@@ -34761,7 +34761,7 @@ game (
 	releasemonth "7"
 	releaseday "30"
 	users "4"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-01486"
 		name "Carom Shot 2 (Japan).cue"
@@ -35339,7 +35339,7 @@ game (
 	releasemonth "5"
 	releaseday "27"
 	users "2"
-	genre "Billiard / Board / Card"
+	genre "Sports"
 	rom (
 		serial "SLPS-02027"
 		name "Chibi Chara Game Ginga Eiyuu Densetsu (Japan) (Disc 1 of 2).cue"
@@ -35356,7 +35356,7 @@ game (
 	releasemonth "5"
 	releaseday "27"
 	users "2"
-	genre "Billiard / Board / Card"
+	genre "Sports"
 	rom (
 		serial "SLPS-02028"
 		name "Chibi Chara Game Ginga Eiyuu Densetsu (Japan) (Disc 2 of 2).cue"
@@ -35373,7 +35373,7 @@ game (
 	releasemonth "5"
 	releaseday "27"
 	users "2"
-	genre "Billiard / Board / Card"
+	genre "Sports"
 	rom (
 		serial "SLPS-01834"
 		name "Chibi Chara Game Ginga Eiyuu Densetsu [Reinhart Version] [Limited Edition] (Japan) (Disc 1 of 2).cue"
@@ -35390,7 +35390,7 @@ game (
 	releasemonth "5"
 	releaseday "27"
 	users "2"
-	genre "Billiard / Board / Card"
+	genre "Sports"
 	rom (
 		serial "SLPS-01835"
 		name "Chibi Chara Game Ginga Eiyuu Densetsu [Reinhart Version] [Limited Edition] (Japan) (Disc 2 of 2).cue"
@@ -35407,7 +35407,7 @@ game (
 	releasemonth "5"
 	releaseday "27"
 	users "2"
-	genre "Billiard / Board / Card"
+	genre "Sports"
 	rom (
 		serial "SLPS-02025"
 		name "Chibi Chara Game Ginga Eiyuu Densetsu [Yang Version] [Limited Edition] (Japan) (Disc 1 of 2).cue"
@@ -35424,7 +35424,7 @@ game (
 	releasemonth "5"
 	releaseday "27"
 	users "2"
-	genre "Billiard / Board / Card"
+	genre "Sports"
 	rom (
 		serial "SLPS-02026"
 		name "Chibi Chara Game Ginga Eiyuu Densetsu [Yang Version] [Limited Edition] (Japan) (Disc 2 of 2).cue"
@@ -43270,7 +43270,7 @@ game (
 	releasemonth "5"
 	releaseday "21"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-01385"
 		name "Doukyu Billiard Master (Japan).cue"
@@ -43287,7 +43287,7 @@ game (
 	releasemonth "10"
 	releaseday "21"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-02363"
 		name "Doukyu Billiard Master [Rerelease] (Japan).cue"
@@ -43304,7 +43304,7 @@ game (
 	releasemonth "4"
 	releaseday "1"
 	users "8"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-02011"
 		name "Doukyu Re-Mix Billiard Multiple (Japan).cue"
@@ -43321,7 +43321,7 @@ game (
 	releasemonth "1"
 	releaseday "31"
 	users "8"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-91450"
 		name "Doukyu Re-Mix Billiard Multiple [PSOne Books] (Japan).cue"
@@ -93802,7 +93802,7 @@ game (
 	releasemonth "4"
 	releaseday "16"
 	users "4"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-01079"
 		name "Side Pocket 3 - 3D Polygon Billiard Game (Japan).cue"
@@ -94839,7 +94839,7 @@ game (
 	releasemonth "4"
 	releaseday "22"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-02030"
 		name "Simple 1500 Series vol.010 - The Billiards (Japan).cue"
@@ -94856,7 +94856,7 @@ game (
 	releasemonth "11"
 	releaseday "1"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-02446"
 		name "Simple 1500 Series vol.010 - The Billiards [Rerelease] (Japan).cue"
@@ -101733,7 +101733,7 @@ game (
 	releasemonth "7"
 	releaseday "12"
 	users "3"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-03226"
 		name "Super Price Series - Billiards (Japan).cue"
@@ -113836,7 +113836,7 @@ game (
 	releasemonth "4"
 	releaseday "18"
 	users "1"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-00775"
 		name "Voice Idol Collection - Pool Bar Story (Japan) (Disc 1 of 2).cue"
@@ -113853,7 +113853,7 @@ game (
 	releasemonth "4"
 	releaseday "18"
 	users "1"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLPS-00776"
 		name "Voice Idol Collection - Pool Bar Story (Japan) (Disc 2 of 2).cue"
@@ -130457,7 +130457,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03879"
 		name "Disney's Lilo & Stitch - Ballade på Hawaii (Europe).cue"
@@ -130474,7 +130474,7 @@ game (
 	releasemonth "9"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03875"
 		name "Disney's Lilo & Stitch en problemas en el Paraíso (Europe).cue"
@@ -130491,7 +130491,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03874"
 		name "Disney's Lilo & Stitch - Grossi Guai Alle Hawaii (Europe).cue"
@@ -130508,7 +130508,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03876"
 		name "Disney's Lilo & Stitch - Heisa op Hawaï (Europe).cue"
@@ -130525,7 +130525,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03880"
 		name "Disney's Lilo & Stitch - Hula Baluba (Europe).cue"
@@ -130542,7 +130542,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03872"
 		name "Disney's Lilo & Stitch - Ouragan sur Hawaï (Europe).cue"
@@ -130559,7 +130559,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03877"
 		name "Disney's Lilo & Stitch - Sarilhos no Paraíso (Europe).cue"
@@ -130576,7 +130576,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03871"
 		name "Disney's Lilo & Stitch - Trouble in Paradise (Europe).cue"
@@ -130593,7 +130593,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03878"
 		name "Disney's Lilo & Stitch - Trubbel i Paradiset (Europe).cue"
@@ -130610,7 +130610,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Plataformer"
+	genre "Platform"
 	rom (
 		serial "SCES-03873"
 		name "Disney's Lilo & Stitch - Zoff Auf Hawaii (Europe).cue"
@@ -141762,7 +141762,7 @@ game (
 	releasemonth "3"
 	releaseday "31"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLES-01334"
 		name "Jimmy White's 2 Cueball (Europe).cue"
@@ -151282,7 +151282,7 @@ game (
 	releasemonth "7"
 	releaseday "28"
 	users "8"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLES-02697"
 		name "Pool Academy (Europe).cue"
@@ -151299,7 +151299,7 @@ game (
 	releasemonth "11"
 	releaseday "9"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLES-01688"
 		name "Pool Hustler (Europe).cue"
@@ -164916,7 +164916,7 @@ game (
 	releasemonth "5"
 	releaseday "10"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLES-00234"
 		name "Virtual Pool (Europe).cue"
@@ -166565,7 +166565,7 @@ game (
 	releasemonth "6"
 	releaseday "28"
 	users "2"
-	genre "Billiard"
+	genre "Sports"
 	rom (
 		serial "SLES-02196"
 		name "World Championship Snooker (Europe).cue"
