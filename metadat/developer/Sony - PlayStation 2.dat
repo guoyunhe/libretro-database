@@ -396,7 +396,7 @@ game (
 	releasemonth "5"
 	releaseday "30"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-20327"
 		name "Aggresive Inline (USA).cue"
@@ -20525,7 +20525,7 @@ game (
 	releasemonth "10"
 	releaseday "18"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-21208"
 		name "Tony Hawk's - American Wasteland (USA).cue"
@@ -20596,7 +20596,7 @@ game (
 	releasemonth "10"
 	releaseday "28"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-20731"
 		name "Tony Hawk's Underground (USA).cue"
@@ -22188,7 +22188,7 @@ game (
 	releasemonth "10"
 	releaseday "3"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-20278"
 		name "Yanya Caballista - City Skater (USA).cue"
@@ -95969,7 +95969,7 @@ game (
 	releasemonth "7"
 	releaseday "5"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLPM-62051"
 		name "Yanya Caballista featuring Gawoo (Japan).cue"
@@ -98213,7 +98213,7 @@ game (
 	releasemonth "8"
 	releaseday "2"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-50480"
 		name "Aggresive Inline (Europe).cue"
@@ -129334,7 +129334,7 @@ game (
 	releasemonth "3"
 	releaseday "10"
 	users "1"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-54628"
 		name "Skate Attack (Europe).cue"
@@ -135476,7 +135476,7 @@ game (
 	releasemonth "10"
 	releaseday "28"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-53534"
 		name "Tony Hawk's - American Wasteland (Europe).cue"
@@ -135493,7 +135493,7 @@ game (
 	releasemonth "10"
 	releaseday "28"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-53535"
 		name "Tony Hawk's - American Wasteland (Europe).cue"
@@ -135618,7 +135618,7 @@ game (
 	releasemonth "11"
 	releaseday "21"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-51848"
 		name "Tony Hawk's Underground (Europe).cue"
@@ -135635,7 +135635,7 @@ game (
 	releasemonth "11"
 	releaseday "21"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-51851"
 		name "Tony Hawk's Underground (Europe).cue"
@@ -135652,7 +135652,7 @@ game (
 	releasemonth "11"
 	releaseday "21"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-51852"
 		name "Tony Hawk's Underground (Europe).cue"
@@ -135669,7 +135669,7 @@ game (
 	releasemonth "11"
 	releaseday "21"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-51853"
 		name "Tony Hawk's Underground (Europe).cue"
@@ -135686,7 +135686,7 @@ game (
 	releasemonth "11"
 	releaseday "21"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-51854"
 		name "Tony Hawk's Underground (Europe).cue"

@@ -8574,7 +8574,7 @@ game (
 	releasemonth "5"
 	releaseday "23"
 	users "1"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SCUS-94568"
 		name "Grind Session (USA).cue"
@@ -20491,7 +20491,7 @@ game (
 	releasemonth "2"
 	releaseday "24"
 	users "2"
-	genre "Skateboard"
+	genre "Sports"
 	rom (
 		serial "SLUS-00818"
 		name "Street Sk8er (USA).cue"
@@ -20508,7 +20508,7 @@ game (
 	releasemonth "3"
 	releaseday "15"
 	users "4"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-01083"
 		name "Street Sk8er 2 (USA).cue"
@@ -22922,7 +22922,7 @@ game (
 	releasemonth "9"
 	releaseday "28"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-00860"
 		name "Tony Hawk's Pro Skater (USA).cue"
@@ -22939,7 +22939,7 @@ game (
 	releasemonth "9"
 	releaseday "2"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-01066"
 		name "Tony Hawk's Pro Skater 2 (USA).cue"
@@ -22956,7 +22956,7 @@ game (
 	releasemonth "10"
 	releaseday "29"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-01419"
 		name "Tony Hawk's Pro Skater 3 (USA).cue"
@@ -22973,7 +22973,7 @@ game (
 	releasemonth "10"
 	releaseday "23"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-01485"
 		name "Tony Hawk's Pro Skater 4 (USA).cue"
@@ -95604,7 +95604,7 @@ game (
 	releasemonth "11"
 	releaseday "16"
 	users "2"
-	genre "Skateboard"
+	genre "Sports"
 	rom (
 		serial "SLPS-03037"
 		name "Simple 1500 Series Vol.047 - The Skateboard (Japan).cue"
@@ -100458,7 +100458,7 @@ game (
 	releasemonth "10"
 	releaseday "23"
 	users "2"
-	genre "Skateboard"
+	genre "Sports"
 	rom (
 		serial "SLPS-01622"
 		name "Street Boarders (Japan).cue"
@@ -100475,7 +100475,7 @@ game (
 	releasemonth "8"
 	releaseday "10"
 	users "4"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-02744"
 		name "Street Boarders 2 (Japan).cue"
@@ -110376,7 +110376,7 @@ game (
 	releasemonth "3"
 	releaseday "30"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLPM-86429"
 		name "Tony Hawk's Pro Skater (Japan).cue"
@@ -110393,7 +110393,7 @@ game (
 	releasemonth "11"
 	releaseday "29"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLPM-86943"
 		name "Tony Hawk's Pro Skater [SuperLite 1500 Series] (Japan).cue"
@@ -110410,7 +110410,7 @@ game (
 	releasemonth "3"
 	releaseday "8"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLPM-86751"
 		name "Tony Hawk's Pro Skater 2 (Japan).cue"
@@ -139127,7 +139127,7 @@ game (
 	releasemonth "8"
 	releaseday "25"
 	users "1"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SCES-02885"
 		name "Grind Session (Europe).cue"
@@ -158048,7 +158048,7 @@ game (
 	releasemonth "2"
 	releaseday "24"
 	users "2"
-	genre "Skateboard"
+	genre "Sports"
 	rom (
 		serial "SLES-01759"
 		name "Street Sk8er (Europe).cue"
@@ -158065,7 +158065,7 @@ game (
 	releasemonth "3"
 	releaseday "15"
 	users "4"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-02703"
 		name "Street Skater 2 (Europe).cue"
@@ -163131,7 +163131,7 @@ game (
 	releasemonth "10"
 	releaseday "1"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-02055"
 		name "Tony Hawk's Skateboarding (Europe).cue"
@@ -163148,7 +163148,7 @@ game (
 	releasemonth "9"
 	releaseday "29"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-02908"
 		name "Tony Hawk's Pro Skater 2 (Europe).cue"
@@ -163165,7 +163165,7 @@ game (
 	releasemonth "9"
 	releaseday "29"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-02909"
 		name "Tony Hawk's Pro Skater 2 (Europe).cue"
@@ -163182,7 +163182,7 @@ game (
 	releasemonth "9"
 	releaseday "29"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-02910"
 		name "Tony Hawk's Pro Skater 2 (Europe).cue"
@@ -163199,7 +163199,7 @@ game (
 	releasemonth "11"
 	releaseday "23"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-03645"
 		name "Tony Hawk's Pro Skater 3 (Europe).cue"
@@ -163216,7 +163216,7 @@ game (
 	releasemonth "11"
 	releaseday "23"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-03646"
 		name "Tony Hawk's Pro Skater 3 (Europe).cue"
@@ -163233,7 +163233,7 @@ game (
 	releasemonth "11"
 	releaseday "23"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-03647"
 		name "Tony Hawk's Pro Skater 3 (Europe).cue"
@@ -163250,7 +163250,7 @@ game (
 	releasemonth "11"
 	releaseday "15"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-03954"
 		name "Tony Hawk's Pro Skater 4 (Europe).cue"
@@ -163267,7 +163267,7 @@ game (
 	releasemonth "11"
 	releaseday "15"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-03955"
 		name "Tony Hawk's Pro Skater 4 (Europe).cue"
@@ -163284,7 +163284,7 @@ game (
 	releasemonth "11"
 	releaseday "15"
 	users "2"
-	genre "Skateboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-03956"
 		name "Tony Hawk's Pro Skater 4 (Europe).cue"
