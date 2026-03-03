@@ -1553,7 +1553,7 @@ game (
 	releasemonth "11"
 	releaseday "18"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SLUS-00981"
 		name "Barbie Race & Ride (USA).cue"
@@ -12266,7 +12266,7 @@ game (
 	releasemonth "3"
 	releaseday "1"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SLUS-01362"
 		name "Mary-Kate & Ashley - Winners Circle (USA).cue"
@@ -122589,7 +122589,7 @@ game (
 	releasemonth "11"
 	releaseday "29"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SCES-02366"
 		name "Barbie Aventure Equestre (Europe).cue"
@@ -122674,7 +122674,7 @@ game (
 	releasemonth "11"
 	releaseday "29"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SCES-02365"
 		name "Barbie Race & Ride (Europe).cue"
@@ -122691,7 +122691,7 @@ game (
 	releasemonth "11"
 	releaseday "29"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SCES-02367"
 		name "Barbie Race & Ride (Europe).cue"
@@ -122708,7 +122708,7 @@ game (
 	releasemonth "11"
 	releaseday "29"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SCES-02368"
 		name "Barbie Race & Ride (Europe).cue"
@@ -122725,7 +122725,7 @@ game (
 	releasemonth "11"
 	releaseday "29"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SCES-02369"
 		name "Barbie Race & Ride (Europe).cue"
@@ -144601,7 +144601,7 @@ game (
 	releasemonth "4"
 	releaseday "12"
 	users "2"
-	genre "Horse riding"
+	genre "Sports"
 	rom (
 		serial "SLES-02720"
 		name "Lussan Nathhorst Presenterar Riding Star (Europe).cue"
@@ -145111,7 +145111,7 @@ game (
 	releasemonth "4"
 	releaseday "12"
 	users "2"
-	genre "Horse riding"
+	genre "Sports"
 	rom (
 		serial "SLES-02379"
 		name "Mary King's Riding Star (Europe).cue"
@@ -145162,7 +145162,7 @@ game (
 	releasemonth "3"
 	releaseday "1"
 	users "2"
-	genre "Horse Ride"
+	genre "Sports"
 	rom (
 		serial "SLES-03378"
 		name "Mary-Kate & Ashley - Winners Circle (Europe).cue"
