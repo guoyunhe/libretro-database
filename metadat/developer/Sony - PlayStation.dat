@@ -1927,7 +1927,7 @@ game (
 	releasemonth "3"
 	releaseday "1"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-00645"
 		name "Big Air (USA).cue"
@@ -4001,7 +4001,7 @@ game (
 	releasemonth "12"
 	releaseday "31"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCUS-94356"
 		name "Cool Boarders (USA).cue"
@@ -4018,7 +4018,7 @@ game (
 	releasemonth "11"
 	releaseday "15"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCUS-94358"
 		name "Cool Boarders 2 (USA).cue"
@@ -4035,7 +4035,7 @@ game (
 	releasemonth "1"
 	releaseday "11"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCUS-94251"
 		name "Cool Boarders 3 (USA).cue"
@@ -4052,7 +4052,7 @@ game (
 	releasemonth "1"
 	releaseday "10"
 	users "4"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCUS-94559"
 		name "Cool Boarders 4 (USA).cue"
@@ -4069,7 +4069,7 @@ game (
 	releasemonth "1"
 	releaseday "10"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCUS-94597"
 		name "Cool Boarders 2001 (USA).cue"
@@ -6500,7 +6500,7 @@ game (
 	releasemonth "10"
 	releaseday "31"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-00704"
 		name "ESPN X-Games Pro Boarder (USA).cue"
@@ -19440,7 +19440,7 @@ game (
 	releasemonth "12"
 	releaseday "10"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-01287"
 		name "Snowboarding (USA).cue"
@@ -23075,7 +23075,7 @@ game (
 	releasemonth "10"
 	releaseday "19"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-00979"
 		name "Trick'N Snowboarder (USA).cue"
@@ -38195,7 +38195,7 @@ game (
 	releasemonth "8"
 	releaseday "30"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCPS-45061"
 		name "Cool Boarders (Japan).cue"
@@ -38212,7 +38212,7 @@ game (
 	releasemonth "8"
 	releaseday "30"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-00456"
 		name "Cool Boarders (Japan).cue"
@@ -38229,7 +38229,7 @@ game (
 	releasemonth "6"
 	releaseday "27"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-91031"
 		name "Cool Boarders [Playstation the Best] (Japan).cue"
@@ -38246,7 +38246,7 @@ game (
 	releasemonth "8"
 	releaseday "28"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCPS-45103"
 		name "Cool Boarders 2 - Killing Session (Japan).cue"
@@ -38263,7 +38263,7 @@ game (
 	releasemonth "8"
 	releaseday "28"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-00967"
 		name "Cool Boarders 2 - Killing Session (Japan).cue"
@@ -38280,7 +38280,7 @@ game (
 	releasemonth "2"
 	releaseday "4"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-91122"
 		name "Cool Boarders 2 - Killing Session [Playstation the Best] (Japan).cue"
@@ -38297,7 +38297,7 @@ game (
 	releasemonth "11"
 	releaseday "26"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-01698"
 		name "Cool Boarders 3 (Japan).cue"
@@ -38314,7 +38314,7 @@ game (
 	releasemonth "3"
 	releaseday "9"
 	users "4"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-02527"
 		name "Cool Boarders 4 (Japan).cue"
@@ -95264,7 +95264,7 @@ game (
 	releasemonth "2"
 	releaseday "24"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-02630"
 		name "Simple 1500 Series vol.027 - The Snowboard (Japan).cue"
@@ -110926,7 +110926,7 @@ game (
 	releasemonth "2"
 	releaseday "4"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-01860"
 		name "Tricky Sliders (Japan).cue"
@@ -116180,7 +116180,7 @@ game (
 	releasemonth "3"
 	releaseday "11"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-01944"
 		name "X-Games Pro Boarder (Japan).cue"
@@ -117914,7 +117914,7 @@ game (
 	releasemonth "12"
 	releaseday "25"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-00909"
 		name "Zap Snowboarding Trix '98 (Japan).cue"
@@ -117931,7 +117931,7 @@ game (
 	releasemonth "11"
 	releaseday "1"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLPS-03034"
 		name "Zap Snowboarding Trix '98 [Fukyuuban 1500 Series] (Japan).cue"
@@ -123201,7 +123201,7 @@ game (
 	releasemonth "3"
 	releaseday "1"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-01531"
 		name "Big Air (Europe).cue"
@@ -125714,7 +125714,7 @@ game (
 	releasemonth "4"
 	releaseday "15"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-00711"
 		name "Chill (Europe).cue"
@@ -126972,7 +126972,7 @@ game (
 	releasemonth "1"
 	releaseday "15"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCES-00568"
 		name "Cool Boarders (Europe).cue"
@@ -126989,7 +126989,7 @@ game (
 	releasemonth "1"
 	releaseday "15"
 	users "1"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCES-00992"
 		name "Cool Boarders 2 (Europe).cue"
@@ -127006,7 +127006,7 @@ game (
 	releasemonth "11"
 	releaseday "15"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCES-01615"
 		name "Cool Boarders 3 (Europe).cue"
@@ -127023,7 +127023,7 @@ game (
 	releasemonth "1"
 	releaseday "10"
 	users "4"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCES-02283"
 		name "Cool Boarders 4 (Europe).cue"
@@ -150840,7 +150840,7 @@ game (
 	releasemonth "8"
 	releaseday "1"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-01178"
 		name "Phat Air Extreme Snowboarding (Europe).cue"
@@ -156076,7 +156076,7 @@ game (
 	releasemonth "5"
 	releaseday "2"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-03960"
 		name "Snowboard Racer (Europe).cue"
@@ -163573,7 +163573,7 @@ game (
 	releasemonth "12"
 	releaseday "29"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-02304"
 		name "Trick'N Snowboarder (Europe).cue"
@@ -167211,7 +167211,7 @@ game (
 	releasemonth "11"
 	releaseday "15"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCES-01556"
 		name "X-Games Pro Boarder (Europe).cue"

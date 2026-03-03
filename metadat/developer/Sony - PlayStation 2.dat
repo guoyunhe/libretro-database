@@ -2876,7 +2876,7 @@ game (
 	releasemonth "5"
 	releaseday "23"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SCUS-97108"
 		name "Cool Boarders 2001 (USA).cue"
@@ -16353,7 +16353,7 @@ game (
 	releasemonth "11"
 	releaseday "16"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLUS-21853"
 		name "Shaun White Snowboarding (USA).cue"
@@ -127446,7 +127446,7 @@ game (
 	releasemonth "12"
 	releaseday "4"
 	users "2"
-	genre "Snowboarding"
+	genre "Sports"
 	rom (
 		serial "SLES-55452"
 		name "Shaun White Snowboarding (Europe).cue"
