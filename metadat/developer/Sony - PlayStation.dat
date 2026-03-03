@@ -56100,7 +56100,7 @@ game (
 	releasemonth "9"
 	releaseday "13"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-00112"
 		name "Hissatsu Pachinko Station (Japan).cue"
@@ -56117,7 +56117,7 @@ game (
 	releasemonth "11"
 	releaseday "5"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-01668"
 		name "Hissatsu Pachinko Station [Sunsoft Best] (Japan).cue"
@@ -56228,7 +56228,7 @@ game (
 	releasemonth "3"
 	releaseday "11"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-01907"
 		name "Hissatsu Pachinko Station 4 - Hero Tachi no Chousen (Japan).cue"
@@ -56245,7 +56245,7 @@ game (
 	releasemonth "12"
 	releaseday "14"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-03077"
 		name "Hissatsu Pachinko Station 4 - Hero Tachi no Chousen [SunKore Best] (Japan).cue"
@@ -56262,7 +56262,7 @@ game (
 	releasemonth "6"
 	releaseday "10"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-02097"
 		name "Hissatsu Pachinko Station 5 - Deramaitta & Irete Nanbo (Japan).cue"
@@ -56279,7 +56279,7 @@ game (
 	releasemonth "7"
 	releaseday "1"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-02144"
 		name "Hissatsu Pachinko Station 6 - Gakideka & Jamaica (Japan).cue"
@@ -56330,7 +56330,7 @@ game (
 	releasemonth "6"
 	releaseday "8"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-02765"
 		name "Hissatsu Pachinko Station 9 - Ushiwaka to Lemi (Japan).cue"
@@ -57453,7 +57453,7 @@ game (
 	releasemonth "7"
 	releaseday "27"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPM-86418"
 		name "Hyper Pachinko [Hyper Value 2800] (Japan).cue"
@@ -77084,7 +77084,7 @@ game (
 	releasemonth "8"
 	releaseday "26"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-02175"
 		name "Nishijin Pachinko Tengoku EX (Japan).cue"
@@ -79957,7 +79957,7 @@ game (
 	releasemonth "8"
 	releaseday "30"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-03254"
 		name "Pachinko Teiou - CR Sore Ute Hama-chan 2 & CR Sore Yuke Matchan S (Japan).cue"
@@ -90542,7 +90542,7 @@ game (
 	releasemonth "7"
 	releaseday "5"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-00425"
 		name "Sankyo Fever - Downtown Geki (Japan).cue"
@@ -90559,7 +90559,7 @@ game (
 	releasemonth "3"
 	releaseday "8"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-00264"
 		name "Sankyo Fever Jikki Simulation (Japan).cue"
@@ -90576,7 +90576,7 @@ game (
 	releasemonth "3"
 	releaseday "8"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-03166"
 		name "Sankyo Fever 4 (Japan).cue"
@@ -90593,7 +90593,7 @@ game (
 	releasemonth "10"
 	releaseday "3"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-91494"
 		name "Sankyo Fever 4 [PSOne Books] (Japan).cue"
@@ -113502,7 +113502,7 @@ game (
 	releasemonth "10"
 	releaseday "21"
 	users "1"
-	genre "Gambling / Pachinko"
+	genre "Gambling"
 	rom (
 		serial "SLPS-02295"
 		name "Virtua Pachi-Slot EX (Japan).cue"
