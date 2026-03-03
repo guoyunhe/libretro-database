@@ -70020,7 +70020,7 @@ game (
 	releasemonth "9"
 	releaseday "21"
 	users "2"
-	genre "Surfing"
+	genre "Sports"
 	rom (
 		serial "SLPS-02871"
 		name "Max Surfing 2nd (Japan).cue"
@@ -165987,7 +165987,7 @@ game (
 	releasemonth "9"
 	releaseday "14"
 	users "4"
-	genre "Windsurfing"
+	genre "Sports"
 	rom (
 		serial "SLES-03329"
 		name "Windsurfers Paradise (Europe).cue"
