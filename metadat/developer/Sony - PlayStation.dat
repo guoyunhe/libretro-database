@@ -95366,7 +95366,7 @@ game (
 	releasemonth "8"
 	releaseday "3"
 	users "2"
-	genre "Ping Pong"
+	genre "Sports"
 	rom (
 		serial "SLPS-02908"
 		name "Simple 1500 Series vol.033 - The Takkyuu (Japan).cue"
